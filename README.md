@@ -12,6 +12,7 @@ This repository contains the implementation for the BirdCLEF 2024 competition on
 - [Submission](#submission)
 - [Requirements](#requirements)
 - [Acknowledgements](#acknowledgements)
+- [Contributors](#contributors)
 
 ## Dataset
 
@@ -57,7 +58,12 @@ The predictions are saved in a CSV file in the format required by Kaggle for sub
 - Joblib
 - Tqdm
 
-
 ## Acknowledgements
 
 This project is part of the BirdCLEF 2024 competition on Kaggle. We thank Kaggle and the dataset providers for making this competition possible.
+
+## Contributors
+
+- [Himadri Rajsekhar Giri](https://github.com/Himadri-1801)
+- [Suman Khara](https://github.com/Suman-Khara)
+- [Debatra Banerjee](https://github.com/debatra2004)
